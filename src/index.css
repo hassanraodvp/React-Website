@@ -1,0 +1,67 @@
+/*! Tailwind CSS  */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*! Urbanist Font Family */
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Urbanist", sans-serif;
+}
+/* a {
+  text-decoration: none;
+  color: rgb(60, 60, 228);
+} */
+
+#Home {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+}
+#Home-description {
+  padding: 0.5em;
+}
+
+.Page-not-found {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 2rem;
+  /* font-weight: 600; */
+  & b {
+    padding-right: 0.4em;
+    font-size: 4em;
+  }
+}
+
+#err {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  & span {
+    padding-left: 3px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .Page-not-found {
+    font-size: 1.5rem;
+    & b {
+      font-size: 2em;
+      padding-right: 0.2em;
+    }
+  }
+  #err {
+    font-size: 0.8rem;
+    & span {
+      padding-left: 3px;
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "img": "https://images.unsplash.com/photo-1560472354-0088b5dc9d8d?q=80&w=2030&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Wordpress Developer",
+      "Expertise": "More than 1 year of experience in WordPress development",
+      "Location": "Lahore, On-Site",
+      "Salary": "50,000",
+      "description": "We are seeking a skilled WordPress Developer to join our team. The ideal candidate will have experience building and customizing WordPress websites, developing custom themes and plugins, and optimizing websites for performance and SEO. You will collaborate with designers, content creators, and other developers to create engaging and functional websites."
+    },
+    {
+      "id": "2",
+      "img": "https://images.unsplash.com/photo-1593720219128-218edc93bdc0?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Frontend Developer",
+      "Expertise": "HTML, CSS, & JavaScript",
+      "Location": "Islamabad, On-Site",
+      "Salary": "30,000",
+      "description": "We are looking for a creative and detail-oriented Frontend Developer to join our team. The ideal candidate will have expertise in building visually appealing, user-friendly web applications using modern front-end technologies. You will work closely with designers, backend developers, and product teams to deliver seamless user experiences."
+    },
+    {
+      "id": "3",
+      "img": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Backend Developer",
+      "Expertise": "Node.js, Express.js, Django, SQL & NoSQL",
+      "Location": "Peshawar, On-Site",
+      "Salary": "80,000",
+      "description": "We are looking for a talented and experienced Backend Developer to join our team. The ideal candidate will have a strong understanding of server-side logic, databases, and API development. You will play a critical role in designing, building, and maintaining the core infrastructure of our applications to ensure high performance, scalability, and reliability."
+    },
+    {
+      "id": "4",
+      "img": "https://plus.unsplash.com/premium_photo-1663023612721-e588768ef403?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Full stack Developer",
+      "Expertise": "C++, C#, Python, Node.js, Express.js, Django, SQL & NoSQL",
+      "Location": "Kanpur, On-Site",
+      "Salary": "180,000",
+      "description": "We are seeking a skilled and passionate Full Stack Developer to join our team. The ideal candidate will have expertise in both front-end and back-end development, with a strong understanding of modern frameworks, tools, and best practices. You will collaborate closely with cross-functional teams to design, develop, and maintain scalable, user-friendly applications. "
+    },
+    {
+      "id": "5",
+      "img": "https://plus.unsplash.com/premium_photo-1726754457459-d2dfa2e3a434?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "MERN Stack Developer",
+      "Expertise": "React.js , Node.js, Express.js, Django, SQL & NoSQL",
+      "Location": "Karachi, On-Site",
+      "Salary": "130,000",
+      "description": "We are seeking a talented and passionate MERN Stack Developer to join our team. The ideal candidate will have strong expertise in developing robust and scalable web applications using MongoDB, Express.js, React, and Node.js. You’ll work closely with cross-functional teams to design, develop, and deploy applications while ensuring high performance and responsiveness."
+    }
+  ]
+}
